@@ -250,9 +250,11 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [],
+        "zh": [
+          "可用于搭建问答机器人"
+        ],
         "en": [
-          "#VALUE!"
+          "Can be used to build a question-answering robot"
         ]
       },
       "remarks": {
@@ -367,5 +369,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:15.083Z"
+  "lastUpdated": "2025-07-15T09:17:29.522Z"
 }
