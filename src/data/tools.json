@@ -281,9 +281,11 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [],
+        "zh": [
+          "可用于语音文件生成"
+        ],
         "en": [
-          "#VALUE!"
+          "Can be used to generate voice files"
         ]
       },
       "remarks": {
@@ -369,5 +371,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:54.068Z"
+  "lastUpdated": "2025-07-15T09:18:04.460Z"
 }
