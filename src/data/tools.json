@@ -307,8 +307,8 @@
         "en": "Google NotebookLM"
       },
       "description": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "developed by google ",
+        "en": "developed by google "
       },
       "category": {
         "zh": "External",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:13:37.871Z"
+  "lastUpdated": "2025-07-15T06:15:20.623Z"
 }
