@@ -277,8 +277,8 @@
         "en": "AI Voice (AI audio platform)"
       },
       "description": {
-        "zh": "* ??Azure, ElevenLabs?AI??????",
-        "en": "* AI audio generation platform based on Azure and ElevenLabs"
+        "zh": "??Azure, ElevenLabs?AI??????",
+        "en": "AI audio generation platform based on Azure, ElevenLabs"
       },
       "category": {
         "zh": "Internal",
@@ -317,13 +317,13 @@
       "isInternal": false,
       "features": {
         "zh": [
-          "- ????????? PPT",
+          "????????? PPT",
           "??",
           "Word ????????????????????",
           "??????"
         ],
         "en": [
-          "- Training content organization: upload PPT",
+          "Training content organization: Upload PPT",
           "textbooks",
           "Word documents and other materials",
           "automatically extract key points"
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:19:51.165Z"
+  "lastUpdated": "2025-07-15T06:19:59.371Z"
 }
