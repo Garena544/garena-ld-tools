@@ -220,10 +220,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "用于PPT文件一键处理"
+          "用于PPT文件一键脱敏"
         ],
         "en": [
-          "One-click processing for PPT files"
+          "One-click desensitization for PPT files"
         ]
       },
       "remarks": {
@@ -367,5 +367,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:03.109Z"
+  "lastUpdated": "2025-07-15T09:17:07.720Z"
 }
