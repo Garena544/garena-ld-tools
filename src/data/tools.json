@@ -372,8 +372,8 @@
         "en": "Test synchronization only"
       },
       "description": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "试一下",
+        "en": "Try it"
       },
       "category": {
         "zh": "Internal",
@@ -395,5 +395,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T07:43:35.883Z"
+  "lastUpdated": "2025-07-15T08:01:33.412Z"
 }
