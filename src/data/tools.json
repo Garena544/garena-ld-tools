@@ -70,8 +70,8 @@
         "en": "SRT file translation"
       },
       "description": {
-        "zh": "支持带时间轴的 SRT 字幕文件一键翻译（建议 ≤1500 条）",
-        "en": "Support one-click translation of SRT subtitle files with timeline (recommended ≤1500)"
+        "zh": "支持带时间轴的 SRT 字幕文件一键翻译",
+        "en": "Support one-click translation of SRT subtitle files with timeline"
       },
       "category": {
         "zh": "Internal",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:15:28.234Z"
+  "lastUpdated": "2025-07-15T09:15:36.187Z"
 }
