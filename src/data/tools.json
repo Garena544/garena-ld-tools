@@ -106,8 +106,8 @@
         "en": "BERRY"
       },
       "description": {
-        "zh": "由SG Team开发的String文件翻译\n",
-        "en": "String file translation developed by SG Team\n"
+        "zh": "由SG Team开发的String文件翻译",
+        "en": "String file translation developed by SG Team"
       },
       "category": {
         "zh": "Internal",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:15:57.339Z"
+  "lastUpdated": "2025-07-15T09:16:05.162Z"
 }
