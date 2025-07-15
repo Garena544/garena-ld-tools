@@ -219,9 +219,11 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [],
+        "zh": [
+          "用于PPT文件一键处理"
+        ],
         "en": [
-          "#VALUE!"
+          "One-click processing for PPT files"
         ]
       },
       "remarks": {
@@ -365,5 +367,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:16:49.381Z"
+  "lastUpdated": "2025-07-15T09:17:03.109Z"
 }
