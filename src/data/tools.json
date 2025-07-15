@@ -53,8 +53,8 @@
         ]
       },
       "remarks": {
-        "zh": "安装add on. 功能可以在slide - extension菜单开启",
-        "en": "Install add on. The function can be enabled in the slide - extension menu"
+        "zh": "安装add on后功能可以在slide - extension菜单开启\n目前使用的是机器语言翻译而非AI",
+        "en": "After installing add on, the function can be enabled in the slide - extension menu\nCurrently using machine language translation instead of AI"
       },
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
       "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
@@ -368,5 +368,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:43:44.439Z"
+  "lastUpdated": "2025-07-15T09:44:10.992Z"
 }
