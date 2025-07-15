@@ -381,9 +381,11 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [],
+        "zh": [
+          "看看效果"
+        ],
         "en": [
-          "#VALUE!"
+          "See the effect"
         ]
       },
       "remarks": {
@@ -395,5 +397,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T08:01:33.412Z"
+  "lastUpdated": "2025-07-15T08:01:37.241Z"
 }
