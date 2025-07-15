@@ -25,7 +25,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -60,7 +59,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
       "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
       "icon": "Monitor"
@@ -98,7 +96,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "http://10.21.248.47:8012/",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -133,7 +130,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "http://103.247.206.142:5001/browse_subtitles",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -167,7 +163,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "http://10.21.248.47:8001/",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -205,7 +200,6 @@
         "zh": "",
         "en": "#VALUE!"
       },
-      "rating": 4,
       "url": "https://deepix.test.web.jingle.cn",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -235,7 +229,6 @@
         "zh": "待上线",
         "en": "To be launched"
       },
-      "rating": 4,
       "url": "#VALUE!",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -265,7 +258,6 @@
         "zh": "目前知识库内容更新机制有待优化（只能是知识库管理员手动更新）",
         "en": "The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
       },
-      "rating": 4,
       "url": "https://knowledge.alpha.insea.io/",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -295,7 +287,6 @@
         "zh": "单条语音上线1000字",
         "en": "1,000 words per voice message"
       },
-      "rating": 4,
       "url": "https://aivoice.garenanow.com/project?t=1",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
@@ -333,11 +324,10 @@
         "zh": "公司员工均可使用（部分地区需要切换IP）",
         "en": "All company employees can use it (some areas need to switch IP)"
       },
-      "rating": 4,
       "url": "https://notebooklm.google.com",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T07:31:20.606Z"
+  "lastUpdated": "2025-07-15T07:35:56.822Z"
 }
