@@ -61,6 +61,40 @@
       "icon": "Monitor"
     },
     {
+      "id": "ref",
+      "name": {
+        "zh": "Alpha Knowledge",
+        "en": "#REF!"
+      },
+      "description": {
+        "zh": "公司内部知识库平台，可以安全输入机密数据",
+        "en": "Internal knowledge base platform for companies to safely input confidential data"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "基于 RAG（检索增强生成）的知识检索与问答工具，支持上传结构化知识文件，打造专家型机器人",
+          "兼容多种文件格式，包括 PDF",
+          "Google Docs 和网页",
+          "技术/产品机器人：学习内部技术和产品内容，支持信息检索和团队协作"
+        ],
+        "en": [
+          "#REF!"
+        ]
+      },
+      "remarks": {
+        "zh": "目前已经支持Google Drive自动更新",
+        "en": "#REF!"
+      },
+      "url": "https://knowledge.alpha.insea.io/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
       "id": "srt-file-translation",
       "name": {
         "zh": "SRT文件翻译",
@@ -232,40 +266,6 @@
       "icon": "Monitor"
     },
     {
-      "id": "ref",
-      "name": {
-        "zh": "Alpha Knowledge",
-        "en": "#REF!"
-      },
-      "description": {
-        "zh": "公司内部知识库平台，可以安全输入机密数据",
-        "en": "Internal knowledge base platform for companies to safely input confidential data"
-      },
-      "category": {
-        "zh": "Internal",
-        "en": "Internal"
-      },
-      "isInternal": true,
-      "features": {
-        "zh": [
-          "基于 RAG（检索增强生成）的知识检索与问答工具，支持上传结构化知识文件，打造专家型机器人",
-          "兼容多种文件格式，包括 PDF",
-          "Google Docs 和网页",
-          "技术/产品机器人：学习内部技术和产品内容，支持信息检索和团队协作"
-        ],
-        "en": [
-          "#REF!"
-        ]
-      },
-      "remarks": {
-        "zh": "目前已经支持Google Drive自动更新",
-        "en": "#REF!"
-      },
-      "url": "https://knowledge.alpha.insea.io/",
-      "tutorialUrl": "#VALUE!",
-      "icon": "Monitor"
-    },
-    {
       "id": "ai-voice-ai-audio-platform",
       "name": {
         "zh": "AI Voice (AI音频平台)",
@@ -371,5 +371,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:55:59.487Z"
+  "lastUpdated": "2025-07-15T09:56:01.647Z"
 }
