@@ -93,8 +93,8 @@
         ]
       },
       "remarks": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "功能更新中",
+        "en": "Function update in progress"
       },
       "url": "http://10.21.248.47:8012/",
       "tutorialUrl": "#VALUE!",
@@ -366,5 +366,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:05:53.301Z"
+  "lastUpdated": "2025-07-15T09:06:01.438Z"
 }
