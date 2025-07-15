@@ -80,16 +80,15 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "可保留原时间轴",
           "部署于本地 DIFY 服务器，仅限内网访问",
-          "当前模型为 GPT-4o，Gemini 2.5 Pro 正在测试中",
-          "字幕生成推荐使用剪映（需会员），中文识别准确度较高"
+          "字幕生成推荐使用剪映（需会员），中文识别准确度较高",
+          "建议翻译前由 GPT 进行“去水词”处理以提升质量"
         ],
         "en": [
-          "The original timeline can be retained",
           "Deployed on a local DIFY server",
           "only accessible on the intranet",
-          "The current model is GPT-4o"
+          "It is recommended to use Jianying (membership required) for subtitle generation",
+          "which has a higher accuracy in Chinese recognition"
         ]
       },
       "remarks": {
@@ -366,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:14:01.946Z"
+  "lastUpdated": "2025-07-15T09:15:28.234Z"
 }
