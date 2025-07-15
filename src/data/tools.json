@@ -189,14 +189,14 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "- ?? GPT-Image ? Flux (ComfuUI) ? AI ??????",
-          "- ??????",
+          "?? GPT-Image ? Flux (ComfuUI) ? AI ??????",
+          "??????",
           "??",
           "??"
         ],
         "en": [
-          "- AI image processing tool based on GPT-Image and Flux (ComfuUI)",
-          "- Supports style transfer",
+          "AI image processing tool based on GPT-Image and Flux (ComfuUI)",
+          "Supports style transfer",
           "redrawing",
           "expansion"
         ]
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:19:44.213Z"
+  "lastUpdated": "2025-07-15T06:19:51.165Z"
 }
