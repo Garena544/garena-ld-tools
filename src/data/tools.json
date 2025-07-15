@@ -1,4 +1,375 @@
 {
-  "tools": [],
-  "lastUpdated": "2025-07-15T09:36:51.951Z"
+  "tools": [
+    {
+      "id": "web-ai-tools-collections",
+      "name": {
+        "zh": "[Web] AI Tools Collections",
+        "en": "[Web] AI Tools Collections"
+      },
+      "description": {
+        "zh": "收录由上海 Web 团队研发的 AI 工具合集",
+        "en": "A collection of AI tools developed by the Shanghai Web Team"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "Web Team研发的各类工具"
+        ],
+        "en": [
+          "Various tools developed by Web Team"
+        ]
+      },
+      "remarks": {
+        "zh": "权限开放请联系Web PM",
+        "en": "Please contact Web PM if you want to open permissions"
+      },
+      "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
+      "tutorialUrl": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=1",
+      "icon": "Monitor"
+    },
+    {
+      "id": "google-slides-oneclick-translation",
+      "name": {
+        "zh": "Google Slides一键翻译",
+        "en": "Google Slides One-Click Translation"
+      },
+      "description": {
+        "zh": "一键将 Google Slides 中的文字翻译为其他语言",
+        "en": "Translate text in Google Slides into other languages with one click"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "最新版本只需要安装插件，然后可以在google slides - extension里直接使用"
+        ],
+        "en": [
+          "The latest version only requires the installation of the plug-in",
+          "and can then be used directly in google slides - extension"
+        ]
+      },
+      "remarks": {
+        "zh": "推荐将原版文档另存一个副本再使用翻译功能",
+        "en": "It is recommended to save a copy of the original document before using the translation function"
+      },
+      "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
+      "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
+      "icon": "Monitor"
+    },
+    {
+      "id": "srt-file-translation",
+      "name": {
+        "zh": "SRT文件翻译",
+        "en": "SRT file translation"
+      },
+      "description": {
+        "zh": "支持带时间轴的 SRT 字幕文件一键翻译",
+        "en": "Support one-click translation of SRT subtitle files with timeline"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "部署于本地 DIFY 服务器，仅限内网访问",
+          "字幕生成推荐使用剪映（需会员），中文识别准确度较高",
+          "建议翻译前由 GPT 进行“去水词”处理以提升质量"
+        ],
+        "en": [
+          "Deployed on a local DIFY server",
+          "only accessible on the intranet",
+          "It is recommended to use Jianying (membership required) for subtitle generation",
+          "which has a higher accuracy in Chinese recognition"
+        ]
+      },
+      "remarks": {
+        "zh": "功能更新中\n建议总条数<1500条",
+        "en": "Function is being updated\nThe total number of recommended items is less than 1500"
+      },
+      "url": "http://10.21.248.47:8012/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "berry",
+      "name": {
+        "zh": "BERRY",
+        "en": "BERRY"
+      },
+      "description": {
+        "zh": "由SG Team开发的String文件翻译",
+        "en": "String file translation developed by SG Team"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "支持多语言互译（如中译英",
+          "泰译中等）"
+        ],
+        "en": [
+          "Support multi-language translation (such as Chinese to English",
+          "Thai to Chinese",
+          "etc.)"
+        ]
+      },
+      "remarks": {
+        "zh": "与SRT文件翻译功能类似，可以二选一",
+        "en": "Similar to the SRT file translation function, you can choose one of the two"
+      },
+      "url": "http://103.247.206.142:5001/browse_subtitles",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "ppt-script-generation-script-to-speech-tool",
+      "name": {
+        "zh": "PPT口播稿生成+口播稿转语音工具",
+        "en": "PPT script generation + script to speech tool"
+      },
+      "description": {
+        "zh": "适用于本地化视频内容制作，提升效率",
+        "en": "Applicable to localized video content production to improve efficiency"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "传 PDF 后自动生成 PPT 讲稿",
+          "可生成中英文语音播报"
+        ],
+        "en": [
+          "Automatically generate PPT presentation after uploading PDF",
+          "Can generate Chinese and English voice broadcast"
+        ]
+      },
+      "remarks": {
+        "zh": "目前无法编辑文字",
+        "en": "Cannot edit text at this time"
+      },
+      "url": "http://10.21.248.47:8001/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "deepix",
+      "name": {
+        "zh": "Deepix",
+        "en": "Deepix"
+      },
+      "description": {
+        "zh": "可用于图片绘制/海报制作",
+        "en": "Can be used for picture drawing/poster making"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "基于 GPT-Image 和 Flux (ComfuUI) 的 AI 图像处理工具",
+          "支持风格迁移",
+          "重绘",
+          "扩绘"
+        ],
+        "en": [
+          "AI image processing tool based on GPT-Image and Flux (ComfuUI)",
+          "Supports style transfer",
+          "redrawing",
+          "expansion"
+        ]
+      },
+      "remarks": {
+        "zh": "待上线",
+        "en": "To be launched"
+      },
+      "url": "https://deepix.test.web.jingle.cn",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "oneclick-desensitization-of-sensitive-ppt-content",
+      "name": {
+        "zh": "PPT敏感内容一键脱敏",
+        "en": "One-click desensitization of sensitive PPT content"
+      },
+      "description": {
+        "zh": "自动替换 PPT 中的敏感信息，并生成副本",
+        "en": "Automatically replace sensitive information in PPT and generate a copy"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "用于PPT文件一键脱敏，方便内部交流"
+        ],
+        "en": [
+          "Used for one-click desensitization of PPT files to facilitate internal communication"
+        ]
+      },
+      "remarks": {
+        "zh": "待上线",
+        "en": "To be launched"
+      },
+      "url": "#VALUE!",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "alpha-knowledge",
+      "name": {
+        "zh": "Alpha Knowledge ",
+        "en": "Alpha Knowledge "
+      },
+      "description": {
+        "zh": "公司内部知识库平台",
+        "en": "Internal knowledge base platform"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "可用于搭建问答机器人"
+        ],
+        "en": [
+          "Can be used to build a question-answering robot"
+        ]
+      },
+      "remarks": {
+        "zh": "目前已支持Google Drive自动更新",
+        "en": "Google Drive automatic updates are now supported"
+      },
+      "url": "https://knowledge.alpha.insea.io/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "ai-voice-ai-audio-platform",
+      "name": {
+        "zh": "AI Voice (AI音频平台)",
+        "en": "AI Voice (AI audio platform)"
+      },
+      "description": {
+        "zh": "基于Azure/ElevenLabs的AI音频生成平台",
+        "en": "AI audio generation platform based on Azure/ElevenLabs"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "可用于语音文件生成"
+        ],
+        "en": [
+          "Can be used to generate voice files"
+        ]
+      },
+      "remarks": {
+        "zh": "单条语音上线1000字",
+        "en": "1,000 words per voice message"
+      },
+      "url": "https://aivoice.garenanow.com/project?t=1",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "google-notebooklm",
+      "name": {
+        "zh": "Google NotebookLM",
+        "en": "Google NotebookLM"
+      },
+      "description": {
+        "zh": "AI 驱动的笔记整理与问答助手，支持围绕自定义资料生成学习内容和个性化辅导",
+        "en": "AI-driven note-taking and Q&A assistant that supports generating learning content and personalized tutoring around custom materials"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "将课程讲义",
+          "项目文档或FAQ上传至 NotebookLM，系统会自动整理为结构化知识点并生成可对话的问答系统",
+          "适用于 课后自学",
+          "知识复习"
+        ],
+        "en": [
+          "Upload course handouts",
+          "project documents or FAQs to NotebookLM",
+          "Applicable to after-class self-study",
+          "knowledge review"
+        ]
+      },
+      "remarks": {
+        "zh": "公司员工均可使用（部分地区需要切换IP）",
+        "en": "All company employees can use it (some areas need to switch IP)"
+      },
+      "url": "https://notebooklm.google.com",
+      "tutorialUrl": "https://www.youtube.com/watch?v=6dHmu1GALmA",
+      "icon": "Monitor"
+    },
+    {
+      "id": "google-vids",
+      "name": {
+        "zh": "Google Vids",
+        "en": "Google Vids"
+      },
+      "description": {
+        "zh": "由 Google Workspace 推出的 AI 视频创作工具，用于快速生成教学视频或培训内容",
+        "en": "AI video creation tool launched by Google Workspace for quickly generating instructional videos or training content"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "仅需提供文案或课程要点，Google Vids 可自动生成教学脚本",
+          "视频结构",
+          "画面和配音建议，显著降低视频制作门槛",
+          "适合用于制作 微课（bite-size learning）"
+        ],
+        "en": [
+          "Just provide the copy or course highlights",
+          "Google Vids can automatically generate teaching scripts",
+          "video structure",
+          "pictures and dubbing suggestions"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "url": "https://workspace.google.com/products/vids/",
+      "tutorialUrl": "https://youtu.be/VoMJ05ZM-Q8",
+      "icon": "Monitor"
+    }
+  ],
+  "lastUpdated": "2025-07-15T09:38:04.463Z"
 }
