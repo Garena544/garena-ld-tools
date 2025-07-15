@@ -238,7 +238,7 @@
         "en": "Alpha Knowledge "
       },
       "description": {
-        "zh": "公司内部知识库平台",
+        "zh": "",
         "en": "Internal knowledge base platform"
       },
       "category": {
@@ -368,5 +368,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:46:14.363Z"
+  "lastUpdated": "2025-07-15T09:46:33.354Z"
 }
