@@ -330,8 +330,8 @@
         ]
       },
       "remarks": {
-        "zh": "- ?????????????????IP?",
-        "en": "- Available to all company employees (IP needs to be switched in some areas)"
+        "zh": "?????????????????IP?",
+        "en": "All company employees can use it (some areas need to switch IP)"
       },
       "rating": 4,
       "url": "https://notebooklm.google.com",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:20:06.399Z"
+  "lastUpdated": "2025-07-15T06:20:09.294Z"
 }
