@@ -90,7 +90,7 @@
         "en": "Some tools are still in the beta stage and are only available on the intranet. Please contact Web PM for permission or account application."
       },
       "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
-      "tutorialUrl": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=1",
+      "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
     },
     {
@@ -497,5 +497,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T10:00:33.434Z"
+  "lastUpdated": "2025-07-15T10:00:39.964Z"
 }
