@@ -325,7 +325,7 @@
         "en": "All company employees can use it (some areas need to switch IP)"
       },
       "url": "https://notebooklm.google.com",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": "https://www.youtube.com/watch?v=6dHmu1GALmA",
       "icon": "Monitor"
     },
     {
@@ -366,5 +366,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T08:35:31.224Z"
+  "lastUpdated": "2025-07-15T08:36:47.634Z"
 }
