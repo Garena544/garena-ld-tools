@@ -47,13 +47,13 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "- ?????????????????google slides - extension?????",
-          "- ????????????????????"
+          "?????????????????google slides - extension?????",
+          "????????????????????"
         ],
         "en": [
-          "- The latest version only requires the installation of a plug-in",
-          "and can then be used directly in the Google Slides - extension",
-          "- It is recommended to save a copy of the original document before using the translation function"
+          "The latest version only requires the installation of a plug-in",
+          "and can then be used directly in google slides - extension",
+          "It is recommended to save a copy of the original document before using the translation function"
         ]
       },
       "remarks": {
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:18:46.775Z"
+  "lastUpdated": "2025-07-15T06:19:32.516Z"
 }
