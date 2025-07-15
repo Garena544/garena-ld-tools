@@ -317,16 +317,16 @@
       "isInternal": false,
       "features": {
         "zh": [
-          "培训内容整理：上传 PPT",
-          "教材",
-          "Word 文档等资料，可自动提取重点，生成课程摘要",
-          "知识点列表；"
+          "将课程讲义",
+          "项目文档或FAQ上传至 NotebookLM，系统会自动整理为结构化知识点并生成可对话的问答系统。",
+          "适用于 课后自学",
+          "知识复习"
         ],
         "en": [
-          "Training content organization: Upload PPT",
-          "textbooks",
-          "Word documents and other materials",
-          "automatically extract key points"
+          "Upload course handouts",
+          "project documents or FAQs to NotebookLM",
+          "It is suitable for after-class self-study",
+          "knowledge review"
         ]
       },
       "remarks": {
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T07:06:49.286Z"
+  "lastUpdated": "2025-07-15T07:07:02.788Z"
 }
