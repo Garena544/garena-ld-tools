@@ -47,12 +47,9 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [
-          "最新版本只需要安装插件，然后可以在google slides - extension里直接使用"
-        ],
+        "zh": [],
         "en": [
-          "The latest version only requires the installation of the plug-in",
-          "and can then be used directly in google slides - extension"
+          "#VALUE!"
         ]
       },
       "remarks": {
@@ -371,5 +368,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:43:34.061Z"
+  "lastUpdated": "2025-07-15T09:43:44.439Z"
 }
