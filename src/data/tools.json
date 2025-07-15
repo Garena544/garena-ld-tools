@@ -1,6 +1,68 @@
 {
   "tools": [
     {
+      "id": "garena-ai-toolbox-for-offices-except-cn",
+      "name": {
+        "zh": "Garena AI toolbox - for offices except CN",
+        "en": "Garena AI toolbox - for offices except CN"
+      },
+      "description": {
+        "zh": "（适用除中国以外地区）整合了公司目前可以使用的内部及外部工具",
+        "en": "(Applicable to regions other than China) Integrates the internal and external tools currently available to the company"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "各类工具说明/链接/申请方式"
+        ],
+        "en": [
+          "Description/Link/Application Method of Various Tools"
+        ]
+      },
+      "remarks": {
+        "zh": "由AI团队负责维护更新",
+        "en": "The AI team is responsible for maintenance and updates"
+      },
+      "url": "https://docs.google.com/spreadsheets/d/1-pOo9ZBDYVtzRqohsyv7viIbVdhI4i8NlTpdTH2JQZA/edit?gid=1682877398#gid=1682877398",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "garena-ai-toolbox-for-cn-office",
+      "name": {
+        "zh": "Garena AI工具箱 - for CN office",
+        "en": "Garena AI Toolbox - for CN office"
+      },
+      "description": {
+        "zh": "（适用中国地区）整合了公司目前可以使用的内部及外部工具",
+        "en": "(Applicable to China) Integrates the internal and external tools currently available to the company"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "各类工具说明/链接/申请方式"
+        ],
+        "en": [
+          "Description/Link/Application Method of Various Tools"
+        ]
+      },
+      "remarks": {
+        "zh": "由AI团队负责维护更新",
+        "en": "The AI team is responsible for maintenance and updates"
+      },
+      "url": "https://docs.google.com/spreadsheets/d/1v6CnFSag_M6et5l-1aNHF3svICRdWFg7ryYsfSeM6M8/edit?gid=541688286#gid=541688286",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
       "id": "web-ai-tools-collections",
       "name": {
         "zh": "[Web] AI Tools Collections",
@@ -435,5 +497,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:58:39.777Z"
+  "lastUpdated": "2025-07-15T09:58:49.478Z"
 }
