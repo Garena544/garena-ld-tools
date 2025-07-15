@@ -241,8 +241,8 @@
         "en": "Alpha Knowledge "
       },
       "description": {
-        "zh": "公司内部知识库平台\n可以将相关教材/课件放入知识库，搭建问答机器人",
-        "en": "The company's internal knowledge base platform can put relevant teaching materials/courseware into the knowledge base and build a question-and-answer robot"
+        "zh": "公司内部知识库平台",
+        "en": "Internal knowledge base platform"
       },
       "category": {
         "zh": "Internal",
@@ -369,5 +369,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:29.522Z"
+  "lastUpdated": "2025-07-15T09:17:32.686Z"
 }
