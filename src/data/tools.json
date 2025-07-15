@@ -247,8 +247,8 @@
         "en": "Alpha Knowledge "
       },
       "description": {
-        "zh": "- ?????????\n- ???????/???????????????",
-        "en": "- Internal knowledge base platform of the company\n- You can put relevant teaching materials/courseware into the knowledge base and build a question-and-answer robot"
+        "zh": "?????????\n???????/???????????????",
+        "en": "The company's internal knowledge base platform can put relevant teaching materials/courseware into the knowledge base and build a question-and-answer robot"
       },
       "category": {
         "zh": "Internal",
@@ -262,8 +262,8 @@
         ]
       },
       "remarks": {
-        "zh": "- ??????????????????????????????",
-        "en": "- The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
+        "zh": "??????????????????????????????",
+        "en": "The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
       },
       "rating": 4,
       "url": "https://knowledge.alpha.insea.io/",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:20:00.367Z"
+  "lastUpdated": "2025-07-15T06:20:04.622Z"
 }
