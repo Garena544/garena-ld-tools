@@ -173,8 +173,8 @@
         "en": "Deepix"
       },
       "description": {
-        "zh": "可用于图片绘制/海报制作\n",
-        "en": "Can be used for picture drawing/poster making\n"
+        "zh": "可用于图片绘制/海报制作",
+        "en": "Can be used for picture drawing/poster making"
       },
       "category": {
         "zh": "Internal",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:16:28.435Z"
+  "lastUpdated": "2025-07-15T09:16:34.475Z"
 }
