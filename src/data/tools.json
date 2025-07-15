@@ -126,8 +126,8 @@
         ]
       },
       "remarks": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "与SRT文件翻译功能类似，可以二选一",
+        "en": "Similar to the SRT file translation function, you can choose one of the two"
       },
       "url": "http://103.247.206.142:5001/browse_subtitles",
       "tutorialUrl": "#VALUE!",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:16:05.162Z"
+  "lastUpdated": "2025-07-15T09:16:28.435Z"
 }
