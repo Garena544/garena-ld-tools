@@ -292,8 +292,8 @@
         ]
       },
       "remarks": {
-        "zh": "- ??????1000?",
-        "en": "- 1,000 words per voice message"
+        "zh": "??????1000?",
+        "en": "1,000 words per voice message"
       },
       "rating": 4,
       "url": "https://aivoice.garenanow.com/project?t=1",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:20:04.622Z"
+  "lastUpdated": "2025-07-15T06:20:06.399Z"
 }
