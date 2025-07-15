@@ -17,10 +17,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "Web Team研发的各类工具"
+          "上海Web Team研发的各类工具"
         ],
         "en": [
-          "Various tools developed by Web Team"
+          "Various tools developed by Shanghai Web Team"
         ]
       },
       "remarks": {
@@ -371,5 +371,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:57:48.282Z"
+  "lastUpdated": "2025-07-15T09:58:10.411Z"
 }
