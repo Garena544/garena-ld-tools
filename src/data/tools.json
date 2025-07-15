@@ -159,8 +159,8 @@
         ]
       },
       "remarks": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "目前无法编辑文字",
+        "en": "Cannot edit text at this time"
       },
       "url": "http://10.21.248.47:8001/",
       "tutorialUrl": "#VALUE!",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:16:38.263Z"
+  "lastUpdated": "2025-07-15T09:16:49.381Z"
 }
