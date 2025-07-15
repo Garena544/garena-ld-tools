@@ -56,8 +56,8 @@
         ]
       },
       "remarks": {
-        "zh": "推荐将原版文档另存一个副本再使用翻译功能",
-        "en": "It is recommended to save a copy of the original document before using the translation function"
+        "zh": "安装add on. 功能可以在slide - extension菜单开启",
+        "en": "Install add on. The function can be enabled in the slide - extension menu"
       },
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
       "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
@@ -371,5 +371,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:38:05.944Z"
+  "lastUpdated": "2025-07-15T09:43:34.061Z"
 }
