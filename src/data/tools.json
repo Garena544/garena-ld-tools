@@ -17,10 +17,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "列举了Web Team研发的各类工具"
+          "Web Team研发的各类工具"
         ],
         "en": [
-          "Lists the various tools developed by Web Team"
+          "Various tools developed by Web Team"
         ]
       },
       "remarks": {
@@ -366,5 +366,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:06:45.126Z"
+  "lastUpdated": "2025-07-15T09:14:01.946Z"
 }
