@@ -119,7 +119,7 @@
         "en": "After installing add on, the function can be enabled in the slide - extension menu\nCurrently using machine language translation instead of AI"
       },
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
-      "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
+      "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
     },
     {
@@ -500,5 +500,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T10:12:50.623Z"
+  "lastUpdated": "2025-07-15T10:18:08.191Z"
 }
