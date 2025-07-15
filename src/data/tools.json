@@ -307,8 +307,8 @@
         "en": "Google NotebookLM"
       },
       "description": {
-        "zh": "developed by google ",
-        "en": "developed by google "
+        "zh": "AI????????????????????????????",
+        "en": "AI-driven note-taking and Q&A assistant that generates personalized conversations from uploaded materials"
       },
       "category": {
         "zh": "External",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:22:03.907Z"
+  "lastUpdated": "2025-07-15T06:24:19.482Z"
 }
