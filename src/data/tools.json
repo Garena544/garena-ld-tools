@@ -92,8 +92,8 @@
         ]
       },
       "remarks": {
-        "zh": "功能更新中，推荐将原版文档另存一个副本再使用翻译功能",
-        "en": "During the function update, it is recommended to save a copy of the original document before using the translation function"
+        "zh": "功能更新中\n建议总条数<1500条",
+        "en": "Function is being updated\nThe total number of recommended items is less than 1500"
       },
       "url": "http://10.21.248.47:8012/",
       "tutorialUrl": "#VALUE!",
@@ -365,5 +365,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:15:46.444Z"
+  "lastUpdated": "2025-07-15T09:15:57.339Z"
 }
