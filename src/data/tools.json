@@ -327,7 +327,73 @@
       "url": "https://notebooklm.google.com",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
+    },
+    {
+      "id": "google-vid",
+      "name": {
+        "zh": "Google Vid",
+        "en": "Google Vid"
+      },
+      "description": {
+        "zh": "由 Google Workspace 推出的 AI 视频创作工具，用于快速生成教学视频或培训内容",
+        "en": "AI video creation tool launched by Google Workspace for quickly generating instructional videos or training content"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "仅需提供文案或课程要点，Google Vids 可自动生成教学脚本",
+          "视频结构",
+          "画面和配音建议，显著降低视频制作门槛",
+          "适合用于制作 微课（bite-size learning）"
+        ],
+        "en": [
+          "Just provide the copy or course highlights",
+          "Google Vids can automatically generate teaching scripts",
+          "video structure",
+          "pictures and dubbing suggestions"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "url": "https://workspace.google.com/products/vids/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "test-synchronization-only",
+      "name": {
+        "zh": "测试同步专用",
+        "en": "Test synchronization only"
+      },
+      "description": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [],
+        "en": [
+          "#VALUE!"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "url": "#VALUE!",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T07:43:24.456Z"
+  "lastUpdated": "2025-07-15T07:43:35.883Z"
 }
