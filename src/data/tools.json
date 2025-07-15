@@ -47,9 +47,11 @@
       },
       "isInternal": true,
       "features": {
-        "zh": [],
+        "zh": [
+          "可以生成翻译初稿（）"
+        ],
         "en": [
-          "#VALUE!"
+          "Can generate a draft translation ()"
         ]
       },
       "remarks": {
@@ -368,5 +370,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:44:10.992Z"
+  "lastUpdated": "2025-07-15T09:44:27.237Z"
 }
