@@ -307,8 +307,8 @@
         "en": "Google NotebookLM"
       },
       "description": {
-        "zh": "AI驱动的笔记整理与问答助手，支持从上传资料中生成个性化对话",
-        "en": "AI-driven note-taking and Q&A assistant that generates personalized conversations from uploaded materials"
+        "zh": "AI 驱动的笔记整理与问答助手，支持围绕自定义资料生成学习内容和个性化辅导",
+        "en": "AI-driven note-taking and Q&A assistant that supports generating learning content and personalized tutoring around custom materials"
       },
       "category": {
         "zh": "External",
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:26:23.721Z"
+  "lastUpdated": "2025-07-15T07:06:48.007Z"
 }
