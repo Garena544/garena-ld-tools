@@ -364,38 +364,7 @@
       "url": "https://workspace.google.com/products/vids/",
       "tutorialUrl": "#VALUE!",
       "icon": "Monitor"
-    },
-    {
-      "id": "test-synchronization-only",
-      "name": {
-        "zh": "测试同步专用",
-        "en": "Test synchronization only"
-      },
-      "description": {
-        "zh": "试一下",
-        "en": "Try it"
-      },
-      "category": {
-        "zh": "Internal",
-        "en": "Internal"
-      },
-      "isInternal": true,
-      "features": {
-        "zh": [
-          "看看效果"
-        ],
-        "en": [
-          "See the effect"
-        ]
-      },
-      "remarks": {
-        "zh": "",
-        "en": "#VALUE!"
-      },
-      "url": "#VALUE!",
-      "tutorialUrl": "#VALUE!",
-      "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T08:01:49.740Z"
+  "lastUpdated": "2025-07-15T08:03:07.423Z"
 }
