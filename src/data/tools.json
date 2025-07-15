@@ -272,8 +272,8 @@
         "en": "AI Voice (AI audio platform)"
       },
       "description": {
-        "zh": "基于Azure, ElevenLabs的AI音频生成平台",
-        "en": "AI audio generation platform based on Azure, ElevenLabs"
+        "zh": "基于Azure/ElevenLabs的AI音频生成平台",
+        "en": "AI audio generation platform based on Azure/ElevenLabs"
       },
       "category": {
         "zh": "Internal",
@@ -369,5 +369,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:42.581Z"
+  "lastUpdated": "2025-07-15T09:17:54.068Z"
 }
