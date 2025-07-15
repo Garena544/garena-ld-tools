@@ -258,8 +258,8 @@
         ]
       },
       "remarks": {
-        "zh": "目前知识库内容更新机制有待优化（只能是知识库管理员手动更新）",
-        "en": "The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
+        "zh": "目前已支持Google Drive自动更新",
+        "en": "Google Drive automatic updates are now supported"
       },
       "url": "https://knowledge.alpha.insea.io/",
       "tutorialUrl": "#VALUE!",
@@ -369,5 +369,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:32.686Z"
+  "lastUpdated": "2025-07-15T09:17:42.581Z"
 }
