@@ -7,7 +7,7 @@
         "en": "[Web] AI Tools Collections"
       },
       "description": {
-        "zh": "????? Web ????? AI ????",
+        "zh": "收录由上海 Web 团队研发的 AI 工具合集",
         "en": "A collection of AI tools developed by the Shanghai Web Team"
       },
       "category": {
@@ -33,11 +33,11 @@
     {
       "id": "google-slides-oneclick-translation",
       "name": {
-        "zh": "Google Slides????",
+        "zh": "Google Slides一键翻译",
         "en": "Google Slides One-Click Translation"
       },
       "description": {
-        "zh": "??? Google Slides ???????????",
+        "zh": "一键将 Google Slides 中的文字翻译为其他语言",
         "en": "Translate text in Google Slides into other languages with one click"
       },
       "category": {
@@ -47,8 +47,8 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "?????????????????google slides - extension?????",
-          "????????????????????"
+          "最新版本只需要安装插件，然后可以在google slides - extension里直接使用",
+          "推荐将原版文档另存一个副本再使用翻译功能"
         ],
         "en": [
           "The latest version only requires the installation of a plug-in",
@@ -68,12 +68,12 @@
     {
       "id": "srt-file-translation",
       "name": {
-        "zh": "SRT????",
+        "zh": "SRT文件翻译",
         "en": "SRT file translation"
       },
       "description": {
-        "zh": "??????? SRT ??????????? ?1500 ??\n1. ???????\n2. ??? - ?",
-        "en": "Supports one-click translation of SRT subtitle files with timeline (recommended ?1500 items)\n1. The original timeline can be retained\n2. Supports Chinese-English"
+        "zh": "支持带时间轴的 SRT 字幕文件一键翻译（建议 ≤1500 条）\n1. 可保留原时间轴\n2. 支持中 - 英",
+        "en": "Supports one-click translation of SRT subtitle files with timeline (recommended ≤1500 items)\n1. The original timeline can be retained\n2. Supports Chinese-English"
       },
       "category": {
         "zh": "Internal",
@@ -82,10 +82,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "????? DIFY ??????????",
-          "????? GPT-4o?Gemini 2.5 Pro ?????",
-          "?????????????????????????",
-          "?????? GPT ??????????????"
+          "部署于本地 DIFY 服务器，仅限内网访问",
+          "当前模型为 GPT-4o，Gemini 2.5 Pro 正在测试中",
+          "字幕生成推荐使用剪映（需会员），中文识别准确度较高",
+          "建议翻译前由 GPT 进行“去水词”处理以提升质量"
         ],
         "en": [
           "Deployed on a local DIFY server",
@@ -110,7 +110,7 @@
         "en": "BERRY"
       },
       "description": {
-        "zh": "?SG Team???String????\n",
+        "zh": "由SG Team开发的String文件翻译\n",
         "en": "String file translation developed by SG Team\n"
       },
       "category": {
@@ -120,8 +120,8 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "????????????",
-          "?????"
+          "支持多语言互译（如中译英",
+          "泰译中等）"
         ],
         "en": [
           "Support multi-language translation (such as Chinese to English",
@@ -141,11 +141,11 @@
     {
       "id": "ppt-script-generation-script-to-speech-tool",
       "name": {
-        "zh": "PPT?????+????????",
+        "zh": "PPT口播稿生成+口播稿转语音工具",
         "en": "PPT script generation + script to speech tool"
       },
       "description": {
-        "zh": "?????????????????",
+        "zh": "适用于本地化视频内容制作，提升效率",
         "en": "Applicable to localized video content production to improve efficiency"
       },
       "category": {
@@ -155,8 +155,8 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "? PDF ????? PPT ??",
-          "??????????"
+          "传 PDF 后自动生成 PPT 讲稿",
+          "可生成中英文语音播报"
         ],
         "en": [
           "Automatically generate PPT presentation after uploading PDF",
@@ -179,7 +179,7 @@
         "en": "Deepix"
       },
       "description": {
-        "zh": "???????/????\n",
+        "zh": "可用于图片绘制/海报制作\n",
         "en": "Can be used for picture drawing/poster making\n"
       },
       "category": {
@@ -189,10 +189,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "?? GPT-Image ? Flux (ComfuUI) ? AI ??????",
-          "??????",
-          "??",
-          "??"
+          "基于 GPT-Image 和 Flux (ComfuUI) 的 AI 图像处理工具",
+          "支持风格迁移",
+          "重绘",
+          "扩绘"
         ],
         "en": [
           "AI image processing tool based on GPT-Image and Flux (ComfuUI)",
@@ -213,11 +213,11 @@
     {
       "id": "oneclick-desensitization-of-sensitive-ppt-content",
       "name": {
-        "zh": "PPT????????",
+        "zh": "PPT敏感内容一键脱敏",
         "en": "One-click desensitization of sensitive PPT content"
       },
       "description": {
-        "zh": "???? PPT ????????????",
+        "zh": "自动替换 PPT 中的敏感信息，并生成副本",
         "en": "Automatically replace sensitive information in PPT and generate a copy"
       },
       "category": {
@@ -232,7 +232,7 @@
         ]
       },
       "remarks": {
-        "zh": "???",
+        "zh": "待上线",
         "en": "To be launched"
       },
       "rating": 4,
@@ -247,7 +247,7 @@
         "en": "Alpha Knowledge "
       },
       "description": {
-        "zh": "?????????\n???????/???????????????",
+        "zh": "公司内部知识库平台\n可以将相关教材/课件放入知识库，搭建问答机器人",
         "en": "The company's internal knowledge base platform can put relevant teaching materials/courseware into the knowledge base and build a question-and-answer robot"
       },
       "category": {
@@ -262,7 +262,7 @@
         ]
       },
       "remarks": {
-        "zh": "??????????????????????????????",
+        "zh": "目前知识库内容更新机制有待优化（只能是知识库管理员手动更新）",
         "en": "The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
       },
       "rating": 4,
@@ -273,11 +273,11 @@
     {
       "id": "ai-voice-ai-audio-platform",
       "name": {
-        "zh": "AI Voice (AI????)",
+        "zh": "AI Voice (AI音频平台)",
         "en": "AI Voice (AI audio platform)"
       },
       "description": {
-        "zh": "??Azure, ElevenLabs?AI??????",
+        "zh": "基于Azure, ElevenLabs的AI音频生成平台",
         "en": "AI audio generation platform based on Azure, ElevenLabs"
       },
       "category": {
@@ -292,7 +292,7 @@
         ]
       },
       "remarks": {
-        "zh": "??????1000?",
+        "zh": "单条语音上线1000字",
         "en": "1,000 words per voice message"
       },
       "rating": 4,
@@ -307,7 +307,7 @@
         "en": "Google NotebookLM"
       },
       "description": {
-        "zh": "AI????????????????????????????",
+        "zh": "AI驱动的笔记整理与问答助手，支持从上传资料中生成个性化对话",
         "en": "AI-driven note-taking and Q&A assistant that generates personalized conversations from uploaded materials"
       },
       "category": {
@@ -317,10 +317,10 @@
       "isInternal": false,
       "features": {
         "zh": [
-          "????????? PPT",
-          "??",
-          "Word ????????????????????",
-          "??????"
+          "培训内容整理：上传 PPT",
+          "教材",
+          "Word 文档等资料，可自动提取重点，生成课程摘要",
+          "知识点列表；"
         ],
         "en": [
           "Training content organization: Upload PPT",
@@ -330,7 +330,7 @@
         ]
       },
       "remarks": {
-        "zh": "?????????????????IP?",
+        "zh": "公司员工均可使用（部分地区需要切换IP）",
         "en": "All company employees can use it (some areas need to switch IP)"
       },
       "rating": 4,
@@ -339,5 +339,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T06:24:19.482Z"
+  "lastUpdated": "2025-07-15T06:25:59.864Z"
 }
