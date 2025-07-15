@@ -48,11 +48,9 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "可以生成翻译初稿（）"
+          "可以生成翻译初稿（建议生成后再自行微调）"
         ],
-        "en": [
-          "Can generate a draft translation ()"
-        ]
+        "en": []
       },
       "remarks": {
         "zh": "安装add on后功能可以在slide - extension菜单开启\n目前使用的是机器语言翻译而非AI",
@@ -370,5 +368,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:44:28.584Z"
+  "lastUpdated": "2025-07-15T09:44:45.235Z"
 }
