@@ -123,10 +123,10 @@
       "icon": "Monitor"
     },
     {
-      "id": "ref",
+      "id": "alpha-knowledge",
       "name": {
         "zh": "Alpha Knowledge",
-        "en": "#REF!"
+        "en": "Alpha Knowledge"
       },
       "description": {
         "zh": "公司内部知识库平台，可以安全输入机密数据",
@@ -497,5 +497,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T10:12:27.075Z"
+  "lastUpdated": "2025-07-15T10:12:44.702Z"
 }
