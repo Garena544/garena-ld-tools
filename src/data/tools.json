@@ -24,8 +24,8 @@
         ]
       },
       "remarks": {
-        "zh": "",
-        "en": "#VALUE!"
+        "zh": "权限开放请联系Web PM",
+        "en": "Please contact Web PM if you want to open permissions"
       },
       "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
       "tutorialUrl": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=1",
@@ -366,5 +366,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:06:38.556Z"
+  "lastUpdated": "2025-07-15T09:06:45.126Z"
 }
