@@ -369,7 +369,71 @@
       "url": "https://workspace.google.com/products/vids/",
       "tutorialUrl": "https://youtu.be/VoMJ05ZM-Q8",
       "icon": "Monitor"
+    },
+    {
+      "id": "clipai",
+      "name": {
+        "zh": "ClipAI",
+        "en": "ClipAI"
+      },
+      "description": {
+        "zh": "功能包括图生视频、文生视频等\n支持运镜控制、运动笔刷、对口型等，视频质量最高可达1080p",
+        "en": "Functions include image-generated video, text-generated video, etc. Supports camera control, motion brush, lip syncing, etc., and the video quality can reach up to 1080p"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "适合生成宣传视频制作"
+        ],
+        "en": [
+          "Suitable for generating promotional video production"
+        ]
+      },
+      "remarks": {
+        "zh": "工具申请提交IT center\n关于知识产权，在输出内容中，除了我们原本就有知识产权的内容（比如上传的Kelly形象），可灵不会授予我们其它内容的知识产权。因此应格外注意上传我们已经有版权的内容，确保我们拥有输出内容的版权。",
+        "en": "Tool application submission IT center\nRegarding intellectual property rights, in the output content, except for the content that we already have intellectual property rights (such as the uploaded Kelly image), Keling will not grant us the intellectual property rights of other content. Therefore, we should pay special attention to uploading content that we already have copyright to ensure that we own the copyright of the output content."
+      },
+      "url": "https://itcenter.sea.com",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "cursor",
+      "name": {
+        "zh": "Cursor",
+        "en": "Cursor"
+      },
+      "description": {
+        "zh": "集成了多个前沿LLM，通过智能补全、代码review、重构建议、注释生成等功能提升coding体验和效率",
+        "en": "Integrates multiple cutting-edge LLMs to improve coding experience and efficiency through intelligent completion, code review, refactoring suggestions, comment generation and other functions"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "适合独立工具制作，web页面开发，数据处理和脚本撰写"
+        ],
+        "en": [
+          "Suitable for independent tool production",
+          "web page development",
+          "data processing and script writing"
+        ]
+      },
+      "remarks": {
+        "zh": "本网站由Cursor协助完成！\n工具申请提交IT center",
+        "en": "This website is assisted by Cursor! \nSubmit tool application to IT center"
+      },
+      "url": "https://itcenter.sea.com",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:58:30.972Z"
+  "lastUpdated": "2025-07-15T09:58:33.604Z"
 }
