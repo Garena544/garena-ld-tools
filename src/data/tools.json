@@ -220,10 +220,10 @@
       "isInternal": true,
       "features": {
         "zh": [
-          "用于PPT文件一键脱敏"
+          "用于PPT文件一键脱敏，方便内部交流"
         ],
         "en": [
-          "One-click desensitization for PPT files"
+          "Used for one-click desensitization of PPT files to facilitate internal communication"
         ]
       },
       "remarks": {
@@ -367,5 +367,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-15T09:17:07.720Z"
+  "lastUpdated": "2025-07-15T09:17:15.083Z"
 }
