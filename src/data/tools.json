@@ -1,0 +1,343 @@
+{
+  "tools": [
+    {
+      "id": "web-ai-tools-collections",
+      "name": {
+        "zh": "[Web] AI Tools Collections",
+        "en": "[Web] AI Tools Collections"
+      },
+      "description": {
+        "zh": "????? Web ????? AI ????",
+        "en": "A collection of AI tools developed by the Shanghai Web Team"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [],
+        "en": [
+          "#VALUE!"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "google-slides-oneclick-translation",
+      "name": {
+        "zh": "Google Slides????",
+        "en": "Google Slides One-Click Translation"
+      },
+      "description": {
+        "zh": "??? Google Slides ???????????",
+        "en": "Translate text in Google Slides into other languages with one click"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "- ?????????????????google slides - extension?????",
+          "- ????????????????????"
+        ],
+        "en": [
+          "- The latest version only requires the installation of a plug-in",
+          "and can then be used directly in the Google Slides - extension",
+          "- It is recommended to save a copy of the original document before using the translation function"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
+      "tutorialUrl": "https://www.youtube.com/watch?v=n4SStAx1D3M",
+      "icon": "Monitor"
+    },
+    {
+      "id": "srt-file-translation",
+      "name": {
+        "zh": "SRT????",
+        "en": "SRT file translation"
+      },
+      "description": {
+        "zh": "??????? SRT ??????????? ?1500 ??\n1. ???????\n2. ??? - ?",
+        "en": "Supports one-click translation of SRT subtitle files with timeline (recommended ?1500 items)\n1. The original timeline can be retained\n2. Supports Chinese-English"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "- ????? DIFY ??????????",
+          "- ????? GPT-4o?Gemini 2.5 Pro ?????",
+          "- ?????????????????????????",
+          "- ?????? GPT ??????????????"
+        ],
+        "en": [
+          "- Deployed on a local DIFY server",
+          "only accessible via the intranet",
+          "- The current model is GPT-4o",
+          "Gemini 2.5 Pro is being tested"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "http://10.21.248.47:8012/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "berry",
+      "name": {
+        "zh": "BERRY",
+        "en": "BERRY"
+      },
+      "description": {
+        "zh": "?SG Team???String????\n",
+        "en": "String file translation developed by SG Team\n"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "- ????????????",
+          "?????"
+        ],
+        "en": [
+          "- Support multi-language translation (such as Chinese to English",
+          "Thai to Chinese",
+          "etc.)"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "http://103.247.206.142:5001/browse_subtitles",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "ppt-script-generation-script-to-speech-tool",
+      "name": {
+        "zh": "PPT?????+????????",
+        "en": "PPT script generation + script to speech tool"
+      },
+      "description": {
+        "zh": "?????????????????",
+        "en": "Applicable to localized video content production to improve efficiency"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "- ?? PDF ????? PPT ??",
+          "- ??????????"
+        ],
+        "en": [
+          "- Automatically generate PPT presentation after uploading PDF",
+          "- Generate Chinese and English voice broadcast"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "http://10.21.248.47:8001/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "deepix",
+      "name": {
+        "zh": "Deepix",
+        "en": "Deepix"
+      },
+      "description": {
+        "zh": "???????/????\n",
+        "en": "Can be used for picture drawing/poster making\n"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [
+          "- ?? GPT-Image ? Flux (ComfuUI) ? AI ??????",
+          "- ??????",
+          "??",
+          "??"
+        ],
+        "en": [
+          "- AI image processing tool based on GPT-Image and Flux (ComfuUI)",
+          "- Supports style transfer",
+          "redrawing",
+          "expansion"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": "https://deepix.test.web.jingle.cn",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "oneclick-desensitization-of-sensitive-ppt-content",
+      "name": {
+        "zh": "PPT????????",
+        "en": "One-click desensitization of sensitive PPT content"
+      },
+      "description": {
+        "zh": "???? PPT ????????????",
+        "en": "Automatically replace sensitive information in PPT and generate a copy"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [],
+        "en": [
+          "#VALUE!"
+        ]
+      },
+      "remarks": {
+        "zh": "???",
+        "en": "To be launched"
+      },
+      "rating": 4,
+      "url": "#VALUE!",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "alpha-knowledge",
+      "name": {
+        "zh": "Alpha Knowledge ",
+        "en": "Alpha Knowledge "
+      },
+      "description": {
+        "zh": "- ?????????\n- ???????/???????????????",
+        "en": "- Internal knowledge base platform of the company\n- You can put relevant teaching materials/courseware into the knowledge base and build a question-and-answer robot"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [],
+        "en": [
+          "#VALUE!"
+        ]
+      },
+      "remarks": {
+        "zh": "- ??????????????????????????????",
+        "en": "- The current knowledge base content update mechanism needs to be optimized (it can only be updated manually by the knowledge base administrator)"
+      },
+      "rating": 4,
+      "url": "https://knowledge.alpha.insea.io/",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "ai-voice-ai-audio-platform",
+      "name": {
+        "zh": "AI Voice (AI????)",
+        "en": "AI Voice (AI audio platform)"
+      },
+      "description": {
+        "zh": "* ??Azure, ElevenLabs?AI??????",
+        "en": "* AI audio generation platform based on Azure and ElevenLabs"
+      },
+      "category": {
+        "zh": "Internal",
+        "en": "Internal"
+      },
+      "isInternal": true,
+      "features": {
+        "zh": [],
+        "en": [
+          "#VALUE!"
+        ]
+      },
+      "remarks": {
+        "zh": "- ??????1000?",
+        "en": "- 1,000 words per voice message"
+      },
+      "rating": 4,
+      "url": "https://aivoice.garenanow.com/project?t=1",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    },
+    {
+      "id": "google-notebooklm",
+      "name": {
+        "zh": "Google NotebookLM",
+        "en": "Google NotebookLM"
+      },
+      "description": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "isInternal": false,
+      "features": {
+        "zh": [
+          "- ????????? PPT",
+          "??",
+          "Word ????????????????????",
+          "??????"
+        ],
+        "en": [
+          "- Training content organization: upload PPT",
+          "textbooks",
+          "Word documents and other materials",
+          "automatically extract key points"
+        ]
+      },
+      "remarks": {
+        "zh": "- ?????????????????IP?",
+        "en": "- Available to all company employees (IP needs to be switched in some areas)"
+      },
+      "rating": 4,
+      "url": "https://notebooklm.google.com",
+      "tutorialUrl": "#VALUE!",
+      "icon": "Monitor"
+    }
+  ],
+  "lastUpdated": "2025-07-15T06:12:51.803Z"
+}
