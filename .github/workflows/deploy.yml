@@ -2,9 +2,10 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: [ master ]
+    paths:
+      - 'src/data/*.json'  # 当JSON数据文件更新时触发
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   build-and-deploy:
@@ -27,7 +28,6 @@ jobs:
       run: npm run build
       
     - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
