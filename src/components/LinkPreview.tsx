@@ -18,8 +18,7 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
     return (
       <div className="bg-gray-100 rounded-lg p-6 text-center">
         <Video className="w-12 h-12 text-gray-400 mx-auto mb-3" />
-        <p className="text-gray-500 text-sm">教学视频即将上线</p>
-        <p className="text-gray-400 text-xs mt-1">Tutorial video coming soon</p>
+        <p className="text-gray-500 text-sm">Tutorial video coming soon</p>
       </div>
     );
   }
@@ -102,7 +101,7 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
                 )}
               </div>
               <div className="flex-1">
-                <p className="text-sm font-medium text-gray-900">网页预览</p>
+                <p className="text-sm font-medium text-gray-900">Web Preview</p>
                 <p className="text-xs text-gray-500 truncate">{previewInfo.domain}</p>
                 <p className="text-xs text-gray-400 truncate">{previewInfo.path}</p>
               </div>
@@ -151,13 +150,13 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
                 className="text-blue-600 hover:text-blue-800 text-sm flex items-center"
               >
                 <ExternalLink className="w-3 h-3 mr-1" />
-                在新窗口打开
+                Open in new window
               </a>
               <button
                 onClick={() => setShowPreview(false)}
                 className="text-gray-500 hover:text-gray-700 text-xs"
               >
-                收起
+                Collapse
               </button>
             </div>
           </div>
@@ -179,7 +178,7 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
               <Monitor className="w-5 h-5 text-gray-600" />
             </div>
             <div className="flex-1">
-              <p className="text-sm font-medium text-gray-900">外部链接</p>
+              <p className="text-sm font-medium text-gray-900">External Link</p>
               <p className="text-xs text-gray-500 truncate">{url}</p>
             </div>
             <ExternalLink className="w-4 h-4 text-gray-400" />
@@ -188,7 +187,7 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
       ) : (
         <div className="p-4">
           <div className="bg-gray-50 rounded border p-3 mb-3">
-            <p className="text-sm text-gray-900 mb-1">链接地址</p>
+            <p className="text-sm text-gray-900 mb-1">Link Address</p>
             <p className="text-xs text-gray-500 break-all">{url}</p>
           </div>
           <div className="mt-2 flex justify-between items-center">
@@ -199,13 +198,13 @@ export default function LinkPreview({ url, title }: LinkPreviewProps) {
               className="text-blue-600 hover:text-blue-800 text-sm flex items-center"
             >
               <ExternalLink className="w-3 h-3 mr-1" />
-              在新窗口打开
+              Open in new window
             </a>
             <button
               onClick={() => setShowPreview(false)}
               className="text-gray-500 hover:text-gray-700 text-xs"
             >
-              收起
+              Collapse
             </button>
           </div>
         </div>
