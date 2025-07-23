@@ -500,40 +500,7 @@
       "url": "https://itcenter.sea.com",
       "tutorialUrl": null,
       "icon": "Monitor"
-    },
-    {
-      "id": "cursor",
-      "name": {
-        "zh": "Cursor",
-        "en": "Cursor"
-      },
-      "description": {
-        "zh": "集成了多个前沿LLM，通过智能补全、代码review、重构建议、注释生成等功能提升coding体验和效率",
-        "en": "Integrates multiple cutting-edge LLMs to improve coding experience and efficiency through intelligent completion, code review, refactoring suggestions, comment generation and other functions"
-      },
-      "category": {
-        "zh": "External",
-        "en": "External"
-      },
-      "features": {
-        "zh": [
-          "适合独立工具制作，web页面开发，数据处理和脚本撰写"
-        ],
-        "en": [
-          "Suitable for independent tool production",
-          "web page development",
-          "data processing and script writing"
-        ]
-      },
-      "remarks": {
-        "zh": "本网站由Cursor协助完成！\n工具申请提交IT center",
-        "en": "This website is assisted by Cursor! \nSubmit tool application to IT center"
-      },
-      "rating": 4,
-      "url": "https://itcenter.sea.com",
-      "tutorialUrl": null,
-      "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-23T09:57:06.495Z"
+  "lastUpdated": "2025-07-23T09:59:52.934Z"
 }
