@@ -1,12 +1,12 @@
 {
   "showcase": [
     {
-      "id": "ai-powered-learning-platform",
-      "sn": "001",
-      "pic": "John Smith",
-      "showcase": "AI-Powered Learning Platform",
-      "link": "https://example.com/showcase1"
+      "id": "",
+      "sn": 1,
+      "pic": "wusi",
+      "showcase": "数据测试",
+      "link": "测试内容\n1 - \n2 - "
     }
   ],
-  "lastUpdated": "2024-12-19T07:27:18.000Z"
+  "lastUpdated": "2025-07-23T07:39:12.938Z"
 } 
