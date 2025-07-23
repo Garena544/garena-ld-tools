@@ -500,7 +500,38 @@
       "url": "https://itcenter.sea.com",
       "tutorialUrl": null,
       "icon": "Monitor"
+    },
+    {
+      "id": "544-test",
+      "name": {
+        "zh": "544 test",
+        "en": "544 test"
+      },
+      "description": {
+        "zh": "function test ",
+        "en": "function test "
+      },
+      "category": {
+        "zh": "External",
+        "en": "External"
+      },
+      "features": {
+        "zh": [
+          "kkkk"
+        ],
+        "en": [
+          "hahahaha"
+        ]
+      },
+      "remarks": {
+        "zh": "",
+        "en": "#VALUE!"
+      },
+      "rating": 4,
+      "url": null,
+      "tutorialUrl": null,
+      "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-23T10:00:06.648Z"
+  "lastUpdated": "2025-07-23T10:00:14.470Z"
 }
