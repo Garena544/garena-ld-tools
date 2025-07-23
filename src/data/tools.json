@@ -198,40 +198,6 @@
       "icon": "Monitor"
     },
     {
-      "id": "berry",
-      "name": {
-        "zh": "BERRY",
-        "en": "BERRY"
-      },
-      "description": {
-        "zh": "由SG Team开发的String文件翻译",
-        "en": "String file translation developed by SG Team"
-      },
-      "category": {
-        "zh": "Internal",
-        "en": "Internal"
-      },
-      "features": {
-        "zh": [
-          "支持多语言互译（如中译英",
-          "泰译中等）"
-        ],
-        "en": [
-          "Support multi-language translation (such as Chinese to English",
-          "Thai to Chinese",
-          "etc.)"
-        ]
-      },
-      "remarks": {
-        "zh": "与SRT文件翻译功能类似，可以二选一",
-        "en": "Similar to the SRT file translation function, you can choose one of the two"
-      },
-      "rating": 4,
-      "url": "http://103.247.206.142:5001/browse_subtitles",
-      "tutorialUrl": null,
-      "icon": "Monitor"
-    },
-    {
       "id": "ppt-script-generation-script-to-speech-tool",
       "name": {
         "zh": "PPT口播稿生成+口播稿转语音工具",
@@ -502,5 +468,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-23T10:29:52.574Z"
+  "lastUpdated": "2025-07-23T10:30:03.018Z"
 }
