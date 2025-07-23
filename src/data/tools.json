@@ -94,7 +94,7 @@
       "icon": "Monitor"
     },
     {
-      "id": "google-slides-oneclick-translation",
+      "id": "google-slides-one-click-translation",
       "name": {
         "zh": "Google Slides一键翻译",
         "en": "Google Slides One-Click Translation"
@@ -111,7 +111,9 @@
         "zh": [
           "可以生成翻译初稿（建议生成后再自行微调）"
         ],
-        "en": []
+        "en": [
+          "Can generate a draft translation (it is recommended to make minor adjustments after the translation is generated)"
+        ]
       },
       "remarks": {
         "zh": "安装add on后功能可以在slide - extension菜单开启\n目前使用的是机器语言翻译而非AI",
@@ -119,7 +121,7 @@
       },
       "rating": 4,
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -156,7 +158,7 @@
       },
       "rating": 4,
       "url": "https://knowledge.alpha.insea.io/",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -192,7 +194,7 @@
       },
       "rating": 4,
       "url": "http://10.21.248.47:8012/",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -226,7 +228,7 @@
       },
       "rating": 4,
       "url": "http://103.247.206.142:5001/browse_subtitles",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -259,7 +261,7 @@
       },
       "rating": 4,
       "url": "http://10.21.248.47:8001/",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -296,11 +298,11 @@
       },
       "rating": 4,
       "url": "https://deepix.test.web.jingle.cn",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
-      "id": "oneclick-desensitization-of-sensitive-ppt-content",
+      "id": "one-click-desensitization-of-sensitive-ppt-content",
       "name": {
         "zh": "PPT敏感内容一键脱敏",
         "en": "One-click desensitization of sensitive PPT content"
@@ -326,8 +328,8 @@
         "en": "To be launched"
       },
       "rating": 4,
-      "url": "#VALUE!",
-      "tutorialUrl": "#VALUE!",
+      "url": null,
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -358,7 +360,7 @@
       },
       "rating": 4,
       "url": "https://aivoice.garenanow.com/project?t=1",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -385,8 +387,8 @@
         "en": [
           "Upload course handouts",
           "project documents or FAQs to NotebookLM",
-          "Applicable to after-class self-study",
-          "knowledge review"
+          "and the system will automatically organize them into structured knowledge points and generate a conversational question-and-answer system",
+          "Applicable to after-class self-study"
         ]
       },
       "remarks": {
@@ -463,7 +465,7 @@
       },
       "rating": 4,
       "url": "https://itcenter.sea.com",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -496,7 +498,7 @@
       },
       "rating": 4,
       "url": "https://itcenter.sea.com",
-      "tutorialUrl": "#VALUE!",
+      "tutorialUrl": null,
       "icon": "Monitor"
     },
     {
@@ -533,5 +535,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-23T08:37:11.639Z"
+  "lastUpdated": "2025-07-23T09:57:06.495Z"
 }
