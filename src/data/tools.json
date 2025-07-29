@@ -19,7 +19,7 @@
           "各类工具说明/链接/申请方式"
         ],
         "en": [
-          "Description/Link/Application Method of Various Tools"
+          "Tool Descriptions/Links/Application Methods"
         ]
       },
       "remarks": {
@@ -50,7 +50,7 @@
           "各类工具说明/链接/申请方式"
         ],
         "en": [
-          "Description/Link/Application Method of Various Tools"
+          "Tool Descriptions/Links/Application Methods"
         ]
       },
       "remarks": {
@@ -86,7 +86,7 @@
       },
       "remarks": {
         "zh": "部分工具还在内测期，仅限内网使用，权限或者账号申请请联系Web PM",
-        "en": "Some tools are still in the beta stage and are only available on the intranet. Please contact Web PM for permission or account application."
+        "en": "Some tools are still in beta and are only available on the intranet. Please contact Web PM for permission or account application."
       },
       "rating": 4,
       "url": "https://docs.google.com/spreadsheets/d/1_BoIFECF67tQ6zamhT9u72wAPmDjNl97oceoGXKXY3w/edit?gid=0#gid=0",
@@ -112,12 +112,12 @@
           "可以生成翻译初稿（建议生成后再自行微调）"
         ],
         "en": [
-          "Can generate a draft translation (it is recommended to make minor adjustments after the translation is generated)"
+          "A draft translation can be generated (it is recommended to make minor adjustments after the translation is generated)"
         ]
       },
       "remarks": {
         "zh": "安装add on后功能可以在slide - extension菜单开启\n目前使用的是机器语言翻译而非AI",
-        "en": "After installing add on, the function can be enabled in the slide - extension menu\nCurrently using machine language translation instead of AI"
+        "en": "After installing the add-on, you can enable the feature in the Slide - Extension menu.\nCurrently, machine language translation is used, not AI."
       },
       "rating": 4,
       "url": "https://workspace.google.com/marketplace/app/slide_translator/761934365958",
@@ -132,7 +132,7 @@
       },
       "description": {
         "zh": "公司内部知识库平台，可以安全输入机密数据",
-        "en": "Internal knowledge base platform for companies to safely input confidential data"
+        "en": "The company's internal knowledge base platform allows for secure entry of confidential data"
       },
       "category": {
         "zh": "Internal",
@@ -146,10 +146,10 @@
           "技术/产品机器人：学习内部技术和产品内容，支持信息检索和团队协作"
         ],
         "en": [
-          "A knowledge retrieval and question-answering tool based on RAG (Retrieval Enhanced Generation)",
-          "which supports uploading structured knowledge files and creating expert robots",
-          "Compatible with multiple file formats",
-          "including PDF"
+          "A knowledge retrieval and question-answering tool based on RAG (Retrieval Augmented Generation) that supports uploading structured knowledge files to create expert bots. Compatible with various file formats",
+          "including PDF",
+          "Google Docs",
+          "and web pages. Technical/Product Bots: Learn internal technical and product content"
         ]
       },
       "remarks": {
@@ -169,7 +169,7 @@
       },
       "description": {
         "zh": "支持带时间轴的 SRT 字幕文件一键翻译",
-        "en": "Support one-click translation of SRT subtitle files with timeline"
+        "en": "Supports one-click translation of SRT subtitle files with timeline"
       },
       "category": {
         "zh": "Internal",
@@ -183,14 +183,14 @@
         ],
         "en": [
           "Deployed on a local DIFY server",
-          "only accessible on the intranet",
-          "It is recommended to use Jianying (membership required) for subtitle generation",
-          "which has a higher accuracy in Chinese recognition"
+          "access is limited to the intranet. For subtitle generation",
+          "we recommend using Jianying (membership required)",
+          "which offers high Chinese recognition accuracy. We recommend using GPT to remove \"watered-down\" words before translation to improve quality."
         ]
       },
       "remarks": {
         "zh": "功能更新中\n建议总条数<1500条",
-        "en": "Function is being updated\nThe total number of recommended items is less than 1500"
+        "en": "Functionality update in progress\nRecommended total number of entries < 1500"
       },
       "rating": 4,
       "url": "http://10.21.248.47:8012/",
@@ -198,14 +198,14 @@
       "icon": "Monitor"
     },
     {
-      "id": "ppt-script-generation-script-to-speech-tool",
+      "id": "ppt-script-generation-script-to-speech-conversion-tool",
       "name": {
         "zh": "PPT口播稿生成+口播稿转语音工具",
-        "en": "PPT script generation + script to speech tool"
+        "en": "PPT script generation + script-to-speech conversion tool"
       },
       "description": {
         "zh": "适用于本地化视频内容制作，提升效率",
-        "en": "Applicable to localized video content production to improve efficiency"
+        "en": "Suitable for localized video content production to improve efficiency"
       },
       "category": {
         "zh": "Internal",
@@ -217,13 +217,13 @@
           "可生成中英文语音播报"
         ],
         "en": [
-          "Automatically generate PPT presentation after uploading PDF",
-          "Can generate Chinese and English voice broadcast"
+          "Automatically generate a PPT presentation after uploading a PDF file.",
+          "Can generate audio presentations in Chinese and English."
         ]
       },
       "remarks": {
         "zh": "目前无法编辑文字",
-        "en": "Cannot edit text at this time"
+        "en": "Unable to edit text at this time"
       },
       "rating": 4,
       "url": "http://10.21.248.47:8001/",
@@ -252,10 +252,10 @@
           "扩绘"
         ],
         "en": [
-          "AI image processing tool based on GPT-Image and Flux (ComfuUI)",
-          "Supports style transfer",
+          "An AI image processing tool based on GPT-Image and Flux (ComfuUI). Supports style transfer",
           "redrawing",
-          "expansion"
+          "scaling",
+          "cropping"
         ]
       },
       "remarks": {
@@ -322,7 +322,7 @@
       },
       "remarks": {
         "zh": "单条语音上线1000字",
-        "en": "1,000 words per voice message"
+        "en": "1000 words per voice message"
       },
       "rating": 4,
       "url": "https://aivoice.garenanow.com/project?t=1",
@@ -337,7 +337,7 @@
       },
       "description": {
         "zh": "AI 驱动的笔记整理与问答助手，支持围绕自定义资料生成学习内容和个性化辅导",
-        "en": "AI-driven note-taking and Q&A assistant that supports generating learning content and personalized tutoring around custom materials"
+        "en": "AI-driven note-taking and Q&A assistant, supporting the generation of learning content and personalized tutoring based on custom materials"
       },
       "category": {
         "zh": "External",
@@ -352,14 +352,14 @@
         ],
         "en": [
           "Upload course handouts",
-          "project documents or FAQs to NotebookLM",
-          "and the system will automatically organize them into structured knowledge points and generate a conversational question-and-answer system",
-          "Applicable to after-class self-study"
+          "project documents",
+          "or FAQs to NotebookLM",
+          "and the system will automatically organize them into structured knowledge points and generate a conversational Q&A system. It's suitable for after-class self-study"
         ]
       },
       "remarks": {
         "zh": "公司员工均可使用（部分地区需要切换IP）",
-        "en": "All company employees can use it (some areas need to switch IP)"
+        "en": "All company employees can use it (some areas require IP switching)"
       },
       "rating": 4,
       "url": "https://notebooklm.google.com",
@@ -388,10 +388,10 @@
           "适合用于制作 微课（bite-size learning）"
         ],
         "en": [
-          "Just provide the copy or course highlights",
-          "Google Vids can automatically generate teaching scripts",
+          "Simply provide the copy or key points of a course",
+          "and Google Videos will automatically generate a teaching script",
           "video structure",
-          "pictures and dubbing suggestions"
+          "imagery"
         ]
       },
       "remarks": {
@@ -411,7 +411,7 @@
       },
       "description": {
         "zh": "功能包括图生视频、文生视频等\n支持运镜控制、运动笔刷、对口型等，视频质量最高可达1080p",
-        "en": "Functions include image-generated video, text-generated video, etc. Supports camera control, motion brush, lip syncing, etc., and the video quality can reach up to 1080p"
+        "en": "Features include image-based and text-based video. Supports camera control, motion brushes, lip syncing, and more, with video quality up to 1080p."
       },
       "category": {
         "zh": "External",
@@ -427,7 +427,7 @@
       },
       "remarks": {
         "zh": "工具申请提交IT center\n关于知识产权，在输出内容中，除了我们原本就有知识产权的内容（比如上传的Kelly形象），可灵不会授予我们其它内容的知识产权。因此应格外注意上传我们已经有版权的内容，确保我们拥有输出内容的版权。",
-        "en": "Tool application submission IT center\nRegarding intellectual property rights, in the output content, except for the content that we already have intellectual property rights (such as the uploaded Kelly image), Keling will not grant us the intellectual property rights of other content. Therefore, we should pay special attention to uploading content that we already have copyright to ensure that we own the copyright of the output content."
+        "en": "Submit tool applications to the IT center.\nRegarding intellectual property rights, we will not grant any intellectual property rights to any content we export, except for content for which we already own the intellectual property rights (such as the uploaded Kelly image). Therefore, we should be extremely careful when uploading content for which we already own the copyright, ensuring that we own the copyright for the exported content."
       },
       "rating": 4,
       "url": "https://itcenter.sea.com",
@@ -460,7 +460,7 @@
       },
       "remarks": {
         "zh": "本网站由Cursor协助完成！\n工具申请提交IT center",
-        "en": "This website is assisted by Cursor! \nSubmit tool application to IT center"
+        "en": "This website was created with the help of Cursor!\nSubmit tool applications to the IT center"
       },
       "rating": 4,
       "url": "https://itcenter.sea.com",
@@ -468,5 +468,5 @@
       "icon": "Monitor"
     }
   ],
-  "lastUpdated": "2025-07-23T10:33:01.209Z"
+  "lastUpdated": "2025-07-29T07:20:33.387Z"
 }
